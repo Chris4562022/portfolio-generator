@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/Chris4562022/portfolio-generator#readme",
   "dependencies": {
-    "inquirer": "^8.2.3"
+    "inquirer": "^8.2.4"
   }
 }
